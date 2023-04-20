@@ -3,4 +3,4 @@ This repository is dedicated to the 2022/2023 version of the course "Introductio
 
 ---
 
-This course will introduce humanists to the fundamentals of programming using Python as the primary language. Students will learn programming concepts such as data types, loops, conditionals, functions, with an emphasis on practical applications for humanities research. Throughout the course, students will also develop problem-solving skills and gain hands-on experience with Python through various assignments and a final project.
+This course will introduce students to the fundamentals of programming using Python as the primary language. Students will learn programming concepts such as data types, loops, conditionals, functions, with an emphasis on practical applications for humanities research. Throughout the course, students will also develop problem-solving skills and gain hands-on experience with Python through various assignments and a final project.
